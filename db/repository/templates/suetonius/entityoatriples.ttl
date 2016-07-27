@@ -1,0 +1,32 @@
+@prefix : <http://www.w3.org/2008/content#> .
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcmit: <http://purl.org/dc/dcmitype/> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix oa: <http://www.w3.org/ns/oa#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<perseus:annotations/urn:cite:perseus:pdlann.1> a oa:Annotation ;
+    oa:annotatedBy <perseus:sosol/users/JohnSmith> ;
+    oa:hasBody <perseus:people/smith:perseus-1> ;
+    oa:hasTarget <perseus:annotations/urn:cite:perseus:pdlann.1/target> ;
+    oa:motivatedBy oa:identifying .
+
+<perseus:texts/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1> a lawd:WrittenWork ;
+    lawd:embodies <perseus:texts/urn:cts:greekLit:tlg0016.tlg001> ;
+    rdfs:isDefinedBy <perseus:catalog/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1> .
+
+<perseus:annotations/urn:cite:perseus:pdlann.1/target> a dcmit:Text,
+        cnt:ContentAsText ;
+    lawd:hasAttestation <perseus:citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:14.319> ;
+    dc:format "text/plain" ;
+    dc:language "grc" ;
+    :chars "Περσέων" .
+
+<perseus:citations/urn:cts:greekLit:tlg0016.tlg001.perseus-grc1:14.319> a lawd:Citation ;
+    lawd:represents <perseus:texts/urn:cts:greekLit:tlg0016.tlg001> .
+
+<perseus:texts/urn:cts:greekLit:tlg0016.tlg001> a lawd:ConceptualWork .

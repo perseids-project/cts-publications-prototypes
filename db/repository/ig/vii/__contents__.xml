@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/ig/vii" owner="admin" group="dba" mode="755" created="2014-11-18T19:45:21-05:00" version="1">
+    <resource type="XMLResource" name="vii.2543-2545.perseus-eng1.xml" owner="admin" group="dba" mode="755" created="2014-11-18T19:45:21-05:00" modified="2014-11-18T19:45:21-05:00" filename="vii.2543-2545.perseus-eng1.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="vii.2543-2545.perseus-grc1.xml" owner="admin" group="dba" mode="755" created="2014-11-18T19:45:21-05:00" modified="2014-11-18T19:45:21-05:00" filename="vii.2543-2545.perseus-grc1.xml" mimetype="text/xml"/>
+    <subcollection name="2543-2545" filename="2543-2545"/>
+</collection>

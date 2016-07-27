@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/greekLit/tlg0012" owner="admin" group="dba" mode="755" created="2013-10-23T19:00:54-04:00" version="1">
+    <subcollection name="tlg002" filename="tlg002"/>
+    <subcollection name="tlg001" filename="tlg001"/>
+</collection>

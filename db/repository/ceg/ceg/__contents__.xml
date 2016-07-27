@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/ceg/ceg" owner="admin" group="dba" mode="755" created="2014-11-26T14:20:35-05:00" version="1">
+    <resource type="BinaryResource" name="README" owner="admin" group="dba" mode="755" created="2014-11-26T14:20:35-05:00" modified="2014-11-30T14:37:21-05:00" filename="README" mimetype="application/octet-stream"/>
+    <subcollection name="518" filename="518"/>
+    <subcollection name="524" filename="524"/>
+</collection>

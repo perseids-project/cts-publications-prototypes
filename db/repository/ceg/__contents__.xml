@@ -1,0 +1,3 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/ceg" owner="admin" group="dba" mode="755" created="2014-11-26T14:20:35-05:00" version="1">
+    <subcollection name="ceg" filename="ceg"/>
+</collection>

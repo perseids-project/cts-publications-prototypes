@@ -1,0 +1,5 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/ig/ii_2" owner="admin" group="dba" mode="755" created="2014-11-26T14:20:47-05:00" version="1">
+    <resource type="BinaryResource" name="README" owner="admin" group="dba" mode="755" created="2014-11-26T14:20:47-05:00" modified="2014-11-30T14:37:22-05:00" filename="README" mimetype="application/octet-stream"/>
+    <subcollection name="12974" filename="12974"/>
+    <subcollection name="8464" filename="8464"/>
+</collection>

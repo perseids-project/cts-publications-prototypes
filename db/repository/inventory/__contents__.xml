@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/inventory" owner="admin" group="dba" mode="755" created="2013-07-31T17:32:07-04:00" version="1">
+    <resource type="XMLResource" name="alpheios-cts-inventory.xml" owner="admin" group="dba" mode="755" created="2014-11-18T19:56:57-05:00" modified="2014-11-18T19:56:57-05:00" filename="alpheios-cts-inventory.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="annotsrc.xml" owner="admin" group="dba" mode="755" created="2016-04-25T15:27:58-04:00" modified="2016-04-25T15:27:58-04:00" filename="annotsrc.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="croala.xml" owner="admin" group="dba" mode="755" created="2016-04-10T12:33:07-04:00" modified="2016-04-10T12:33:07-04:00" filename="croala.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="dodonapilot.xml" owner="admin" group="dba" mode="755" created="2015-06-25T17:44:39-04:00" modified="2015-06-25T17:44:39-04:00" filename="dodonapilot.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="epidoctraining.xml" owner="admin" group="dba" mode="755" created="2016-05-23T23:14:18-04:00" modified="2016-05-23T23:14:18-04:00" filename="epidoctraining.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="epifacs.xml" owner="admin" group="dba" mode="755" created="2015-12-08T14:04:34-05:00" modified="2015-12-08T14:04:34-05:00" filename="epifacs.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="miscellany.xml" owner="admin" group="dba" mode="755" created="2016-02-05T16:52:21-05:00" modified="2016-02-05T16:52:21-05:00" filename="miscellany.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="perseids.xml" owner="admin" group="dba" mode="755" created="2014-11-18T19:43:44-05:00" modified="2014-11-18T19:43:44-05:00" filename="perseids.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="perseus.xml" owner="admin" group="dba" mode="755" created="2014-04-28T13:43:34-04:00" modified="2014-04-28T13:43:34-04:00" filename="perseus.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="pilots.xml" owner="admin" group="dba" mode="755" created="2016-06-03T14:28:23-04:00" modified="2016-06-03T14:28:23-04:00" filename="pilots.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="visiblewords.xml" owner="admin" group="dba" mode="755" created="2015-06-19T14:48:43-04:00" modified="2015-06-19T14:48:43-04:00" filename="visiblewords.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="visibleworlds.xml" owner="admin" group="dba" mode="755" created="2015-04-30T19:57:31-04:00" modified="2015-04-30T19:57:31-04:00" filename="visibleworlds.xml" mimetype="text/xml"/>
+    <resource type="XMLResource" name="vortex.xml" owner="admin" group="dba" mode="755" created="2015-04-16T17:11:57-04:00" modified="2015-04-16T17:11:57-04:00" filename="vortex.xml" mimetype="text/xml"/>
+</collection>

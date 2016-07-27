@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/repository/ig" owner="admin" group="dba" mode="755" created="2014-11-18T19:45:21-05:00" version="1">
+    <subcollection name="vii" filename="vii"/>
+    <subcollection name="ii_2" filename="ii_2"/>
+</collection>
