@@ -241,19 +241,19 @@
     <textgroup projid="latinLit:stoa0031p" urn="urn:cts:latinLit:stoa0031p">
         <groupname xml:lang="eng">Pseudo-Thomas Aquinas</groupname>
         <work projid="latinLit:stoa001" xml:lang="lat" urn="urn:cts:latinLit:stoa0031p.stoa001">
-            <title xml:lang="lat">In Boethii De Consolatione Philosophiae</title>
+            <title xml:lang="eng">In Boethii De Consolatione Philosophiae</title>
         </work>
     </textgroup>
     <textgroup projid="latinLit:stoa0046a" urn="urn:cts:latinLit:stoa0046a">
         <groupname>Avicenna</groupname>
         <work projid="latinLit:stoa001" xml:lang="lat" urn="urn:cts:latinLit:stoa0046a.stoa001">
-            <title xml:lang="lat">Opera philosophica</title>
+            <title xml:lang="eng">Opera philosophica</title>
         </work>
     </textgroup>
     <textgroup projid="latinLit:stoa0045b" urn="urn:cts:latinLit:stoa0045b">
         <groupname>Averroes</groupname>
         <work projid="latinLit:stoa001" urn="urn:cts:latinLit:stoa0045b.stoa001">
-            <title>Aristotelis opera cum averrois commentariis</title>
+            <title xml:lang="eng">Aristotelis opera cum averrois commentariis</title>
         </work>
     </textgroup>
 </TextInventory>
