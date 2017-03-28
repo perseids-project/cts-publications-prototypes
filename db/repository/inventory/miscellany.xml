@@ -256,4 +256,10 @@
             <title xml:lang="eng">Aristotelis opera cum averrois commentariis</title>
         </work>
     </textgroup>
+    <textgroup projid="latinLit:stoa0017" urn="urn:cts:latinLit:stoa0017">
+        <groupname xml:lang="eng">Albert of Saxony</groupname>
+        <work projid="latinLit:stoa002" urn="urn:cts:latinLit:stoa0017.stoa002">
+            <title xml:lang="eng">Quaestiones on An. Post.</title>
+        </work>
+    </textgroup>
 </TextInventory>
